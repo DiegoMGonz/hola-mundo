@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class DoWhile {
 
     public static void main(String[] args) {
+        
+        
 
         /*
          Teniendo en cuenta que la clave es “eureka”, 
@@ -20,6 +22,7 @@ public class DoWhile {
 
         int codigo;
         int password;
+        String gatin;
 
         do {
 
